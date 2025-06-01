@@ -36,7 +36,7 @@ Sakura temalı, animasyonlar ve anılarla dolu güzel bir Flutter uygulaması. B
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/mehmetotman/shape_of_my_heart.git
+git clone https://github.com/arazzguliyef/shape_of_my_heart.git
 ```
 
 2. Proje dizinine gidin:
