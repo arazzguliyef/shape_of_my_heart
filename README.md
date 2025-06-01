@@ -1,2 +1,2 @@
 # shape_of_my_heart
-App for girlfriend
+A Flutter application for Shape of My Heart project
