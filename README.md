@@ -84,6 +84,6 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için LICENSE dosya
 
 ## İletişim 📧
 
-Mehmet Otman - [@mehmetotman](https://github.com/mehmetotman)
+Araz GULİYEV - [@arazzguliyef](https://github.com/arazzguliyef)
 
-Proje Linki: [https://github.com/mehmetotman/shape_of_my_heart](https://github.com/mehmetotman/shape_of_my_heart)
+Proje Linki: [https://github.com/arazzguliyef/shape_of_my_heart](https://github.com/arazzguliyef/shape_of_my_heart)
