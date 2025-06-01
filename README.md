@@ -1,86 +1,89 @@
 # Shape of My Heart 🌸
 
-A beautiful Flutter application that combines animations, memories, and wishes in an elegant interface. This app features a flower garden theme with sakura blossoms and interactive elements.
+Sakura temalı, animasyonlar ve anılarla dolu güzel bir Flutter uygulaması. Bu uygulama, çiçek bahçesi teması ile birlikte interaktif elementler ve animasyonlar içermektedir.
 
-## Features 🌟
+## Özellikler 🌟
 
-- **Flower Garden Screen**: Interactive main screen with animated flower elements
-- **Memories Section**: Store and view precious memories with images
-- **Best Wishes**: Share and collect heartfelt wishes
-- **Beautiful Animations**: Lottie animations for enhanced user experience
-- **Custom Splash Screen**: Elegant sakura-themed splash screen
-- **Modern UI Design**: Material 3 design with custom theme colors
+- **Çiçek Bahçesi Ekranı**: İnteraktif ana ekran ve animasyonlu çiçek elementleri
+- **Anılar Bölümü**: Değerli anılarınızı resimlerle saklayın ve görüntüleyin
+- **Dilekler**: Yürekten gelen dilekleri paylaşın ve saklayın
+- **Etkileyici Animasyonlar**: Lottie animasyonları ile zenginleştirilmiş kullanıcı deneyimi
+- **Özel Açılış Ekranı**: Zarif sakura temalı açılış ekranı
+- **Modern UI Tasarımı**: Material 3 tasarım ve özel tema renkleri
 
-## Tech Stack 💻
+## Teknoloji Yığını 💻
 
 - Flutter
 - Dart
 - Material 3
-- Dependencies:
-  - `lottie`: ^2.7.0 (For beautiful animations)
-  - `animated_text_kit`: ^4.2.2 (Text animations)
-  - `google_fonts`: ^6.1.0 (Custom fonts)
-  - `image_picker`: ^1.0.7 (Image selection)
-  - `shared_preferences`: ^2.2.2 (Local storage)
-  - `path_provider`: ^2.1.2 (File management)
+- Bağımlılıklar:
+  - `lottie`: ^2.7.0 (Animasyonlar için)
+  - `animated_text_kit`: ^4.2.2 (Metin animasyonları)
+  - `google_fonts`: ^6.1.0 (Özel yazı tipleri)
+  - `image_picker`: ^1.0.7 (Resim seçimi)
+  - `shared_preferences`: ^2.2.2 (Yerel depolama)
+  - `path_provider`: ^2.1.2 (Dosya yönetimi)
 
-## Getting Started 🚀
+## Başlangıç 🚀
 
-### Prerequisites
+### Gereksinimler
 
 - Flutter SDK
 - Android Studio / VS Code
 - Git
 
-### Installation
+### Kurulum
 
-1. Clone the repository:
+1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/arazzguliyef/shape_of_my_heart.git
+git clone https://github.com/mehmetotman/shape_of_my_heart.git
 ```
 
-2. Navigate to project directory:
+2. Proje dizinine gidin:
 ```bash
 cd shape_of_my_heart
 ```
 
-3. Install dependencies:
+3. Bağımlılıkları yükleyin:
 ```bash
 flutter pub get
 ```
 
-4. Run the app:
+4. Uygulamayı çalıştırın:
 ```bash
 flutter run
 ```
 
-## Project Structure 📁
+## Proje Yapısı 📁
 
 ```
 lib/
-├── screens/
-│   ├── flower_garden_screen.dart
-│   ├── memories_screen.dart
-│   └── best_wish_screen.dart
-├── models/
-│   └── memory.dart
-└── main.dart
+├── screens/         # Uygulama ekranları
+├── models/          # Veri modelleri
+└── main.dart        # Uygulama giriş noktası
 ```
 
-## Contributing 🤝
+## Varlıklar 🎨
 
-Contributions are welcome! Feel free to submit issues and pull requests.
+Proje aşağıdaki varlık dosyalarını içerir:
+- `assets/images/`: Uygulama görselleri
+- `assets/jsons/`: Lottie animasyon dosyaları
+  - flower1.json - flower6.json: Çiçek animasyonları
 
-## License 📝
+## Katkıda Bulunma 🤝
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Katkılarınızı bekliyoruz! Sorunları bildirmekten ve pull request göndermekten çekinmeyin.
 
-## Screenshots 📱
+## Lisans 📝
 
-[Screenshots will be added soon]
+Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için LICENSE dosyasına bakın.
 
-## Contact 📧
+## Ekran Görüntüleri 📱
 
-Araz Guliyev - [@arazzguliyef](https://github.com/arazzguliyef)
+[Ekran görüntüleri yakında eklenecek]
 
-Project Link: [https://github.com/arazzguliyef/shape_of_my_heart](https://github.com/arazzguliyef/shape_of_my_heart)
+## İletişim 📧
+
+Mehmet Otman - [@mehmetotman](https://github.com/mehmetotman)
+
+Proje Linki: [https://github.com/mehmetotman/shape_of_my_heart](https://github.com/mehmetotman/shape_of_my_heart)
